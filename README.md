@@ -10,6 +10,10 @@ Test 2
 
 Random
 
+## Random 3
+
+Another Random
+
 ### Copyright
 
 2014 Git.Training.
