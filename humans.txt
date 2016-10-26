@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kirill Suleac thetechgamers@gmail.com
 
 # THANKS
 
