@@ -16,7 +16,7 @@ Another Random
 
 ## README
 
-Just some random text.
+Just some random text, and more random text
 
 ### Copyright
 
