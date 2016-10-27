@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Kirill Suleac thetechgamers@gmail.com
+    Kirill Suleac   thetechgamers@gmail.com
 
 # THANKS
 
-    <name>
+    To my dad for getting me the Git courses
 
 # TECHNOLOGY COLOPHON
 
