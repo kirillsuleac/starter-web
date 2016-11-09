@@ -7,7 +7,7 @@
 
 # THANKS
 
-    To my dad for getting me the Git courses
+    To my dad for getting me the Git course
 
 # TECHNOLOGY COLOPHON
 
